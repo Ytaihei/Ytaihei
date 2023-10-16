@@ -1,5 +1,5 @@
 ### Now sturding
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,vite,react,next,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,vite,react,next,haskel)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ytaihei)](https://github.com/anuraghazra/github-readme-stats)
 
