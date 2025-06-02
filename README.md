@@ -2,7 +2,6 @@
 - Affiliation
   - Keio University Shonan Fujisawa Campus B3 student
   - Jun Murai Lab, ICAR・rgroot KG
-  - Softbank R&D part-time
 - interest
 # Skill
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,astro,vite,nodejs,react,next,express,firebase,github,py)](https://skillicons.dev)
