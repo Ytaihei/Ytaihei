@@ -3,6 +3,8 @@
   - Keio University Shonan Fujisawa Campus B3 student
   - Jun Murai Lab, ICAR・rgroot KG
 - interest
+  - Telecommunication
+    - Especially mobile core network
 # Skill
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,astro,vite,nodejs,react,next,express,firebase,github,py)](https://skillicons.dev)
 
